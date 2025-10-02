@@ -1,2 +1,2 @@
 # Personal-Projects
-buidling websites to learn html and css
+building websites to learn html and css
