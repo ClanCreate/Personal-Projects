@@ -1,0 +1,27 @@
+table, th, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+    Border-radius: 10px;
+    Border-style: solid;
+    Border-color: black;
+  }
+  th, td {
+    background-color: #96D4D4;
+  }
+  th, td {
+    padding: 15px;
+    padding-right: 15px;
+  }
+  table {
+    border-spacing: 30px;
+  }
+  h1 {
+    color: blue;
+  }
+  h2 {
+    color: red;
+  }
+  h3 {
+    color: green
+  }
+  
